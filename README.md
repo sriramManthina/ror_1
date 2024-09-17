@@ -9,3 +9,6 @@
     * general: added a pages controller
     * terminal commands:
         * rails generate controller pages
+
+## commit - added about route
+    * general: added /about route
